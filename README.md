@@ -16,4 +16,4 @@ Latest Videos
 
 ## Follow Me
 ![YuoTube](https://img.shields.io/badge/-Yuotube-010101?style=for-the-badge&logo=YuoTube&logoColor=41C7E7)
-![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=41C7E7)
+[![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=41C7E7)](https://t.me/Pervushin_Anton)
