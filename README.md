@@ -1,4 +1,4 @@
-![Header](https://github.com/Anton-Pervushin/anton-pervushin/blob/main/assets/logo.jpg)
+![Header](https://github.com/Anton-Pervushin/anton-pervushin/blob/main/assets/logo1.jpg)
 
 Adout Me
 
