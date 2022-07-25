@@ -15,5 +15,5 @@ Latest Videos
 ![HTML](https://img.shields.io/badge/-HTML-010101?style=for-the-badge&logo=HTML&logoColor=41C7E7)
 
 ## Follow Me
-![YouTube](https://img.shields.io/badge/-Yuotube-010101?style=for-the-badge&logo=YouTube&logoColor=41C7E7)
+![YouTube](https://img.shields.io/badge/-Youtube-010101?style=for-the-badge&logo=YouTube&logoColor=41C7E7)
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=41C7E7)](https://t.me/Pervushin_Anton)
